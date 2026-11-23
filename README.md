@@ -1,1 +1,1 @@
-# mistral-chat_example
+mistral-chat_example
